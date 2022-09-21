@@ -1,0 +1,4 @@
+flask
+dtale
+pandas 
+gunicorn
