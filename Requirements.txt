@@ -1,4 +1,0 @@
-flask
-dtale
-pandas 
-gunicorn
